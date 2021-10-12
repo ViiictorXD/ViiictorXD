@@ -13,7 +13,7 @@ data class Profile(
   val city: City = City.SP
 )
 ```
-<br>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" alt="java" width="40" height="40"/> 
