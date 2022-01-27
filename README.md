@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="450" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" alt="avatar">
+  <img align="right" width="300" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" alt="avatar">
   <h1>About me</h1>
   <p align="left">
      My name is Victor, I am 21 years-old and 
