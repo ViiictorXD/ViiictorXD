@@ -2,7 +2,7 @@
   <img align="right" width="300" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" alt="avatar">
   <h1>About me</h1>
   <p align="left">
-     My name is Victor, I am 21 years-old and 
+     My name is Victor, I am 22 years-old and 
     I am <strong>beginner developer</strong>, Java enthusiast, 
      I love high-level programming languages.
   </p>
@@ -20,10 +20,10 @@
   </p>
 </div>
 <br />
-<a href="https://www.linkedin.com/in/victor-rodrigues-13b720229/" target="_blank">
+<a href="https://www.linkedin.com/in/victorsantssz/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"/>
 </a>
-<a href="https://twitter.com/victor_santssz/" target="_blank">
+<a href="https://twitter.com/victor_santssz" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter-badge"/>
 </a>
 <a href="https://discord.com/users/818236451585654834" target="_blank">
