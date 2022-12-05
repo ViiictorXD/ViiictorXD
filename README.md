@@ -1,4 +1,6 @@
 <p align="center">   
+  <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="center"/>
+ 
   <samp>
     <br>
     Hello there! I am <b>Victor</b>.
@@ -51,7 +53,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorsantssz&show_icons=true&count_private=true">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=deslocher&show_icons=true&count_private=true">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorsantssz#version3">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deslocher#version3">
 </p>
