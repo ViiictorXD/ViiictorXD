@@ -53,8 +53,5 @@
 </p>
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=deslocher&show_icons=true&count_private=true">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deslocher#version3">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viiictorxd#version3">
 </p>
